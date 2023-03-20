@@ -1,0 +1,18 @@
+{
+    "batch_size": 20,
+    "ckpt_dir": "./results/debug/ckpts",
+    "epochs_per_save": 1,
+    "gpu_ids": "0",
+    "isTrain": false,
+    "load_epoch": 0,
+    "model_name": "generator_A2B",
+    "name": "debug",
+    "preprocessed_data_dir": "./preprocessed",
+    "sample_rate": 16000,
+    "save_dir": "./results",
+    "seed": 0,
+    "speaker_A_id": "1",
+    "speaker_B_id": "0",
+    "start_epoch": 1,
+    "steps_per_print": 1000
+}
